@@ -1,3 +1,3 @@
-FROM node:6-onbuild
+FROM node:carbon-onbuild
 
 EXPOSE 3000
